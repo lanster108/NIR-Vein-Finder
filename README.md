@@ -4,7 +4,7 @@ The purpose of this program is to be able to process the live image feed coming 
 
 ## Description
 
-The development of the vein finder system's image segmentation capabilities consists of seven main sections: color space detection, tone curve, thresholding, contour analysis, morphing, drwing annotations, and tone mapping all of which working hand in hand to highlight and delineate the veins at a specific area.
+The development of the vein finder system's image segmentation capabilities consists of seven main sections: color space detection, tone curve, thresholding, contour analysis, morphing, drawing annotations, and tone mapping all of which working hand in hand to highlight and delineate the veins at a specific area.
 
 
 ## Getting Started
